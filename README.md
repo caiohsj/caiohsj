@@ -10,7 +10,7 @@
   <li>💻 ┇I'm a Web Developer from <b>Coxim, Mato Grosso do Sul - <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>🎙 ┇Also a Freelancer;</li>
   <li>💾 ┇I currently work with Vue.js and Ruby on Rails, but I'm constantly studying, taking courses;</li>
-  <li>😍 ┇Passionate about front-end;</li>
+  <li>😍 ┇Passionate about programming;</li>
   <li>🤝 ┇Always open for improvements</li>
 </ul>
 <h1> 😇 My Github Stats: </h1>
