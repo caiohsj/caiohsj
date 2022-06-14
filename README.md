@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/caio-henrique-30b699159"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <ul>
-  <li>💻 ┇I'm a Web Developer from <b>Coxim, Mato Grosso do Sul - <img src="https://cdn-icons.flaticon.com/png/512/5315/premium/5315340.png?token=exp=1639681086~hmac=50904f07129da44d277c08052ce8336a" width="13"/> Brasil</b>;</li>
+  <li>💻 ┇I'm a Web Developer from <b>Coxim, Mato Grosso do Sul - <img src="https://user-images.githubusercontent.com/35788183/173614481-f24efb3e-9d24-4a38-bfb5-8cc5ec951f10.png" width="13"/> Brasil</b>;</li>
   <li>🎙 ┇Also a Freelancer;</li>
   <li>💾 ┇I currently work with Vue.js and Ruby on Rails, but I'm constantly studying, taking courses;</li>
   <li>😍 ┇Passionate about programming;</li>
